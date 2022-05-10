@@ -1,3 +1,4 @@
+// on require les values de nos fichier json
 const students =require("../../data/students.json");
 const promos = require('../../data/promos.json');
 

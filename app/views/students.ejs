@@ -1,17 +1,19 @@
 <%- include('partials/header') %>
-
+ <!-- on affiche la liste des étudients -->
 <h1>Liste des étudiants de la promo : <%= promo.name %></h1>
-<% for(const student of studentsFound) {%>
+
 <ul class="cards">
+    <% for(const student of studentsFound) {%>
     <li class="card">
         <a href="students/<%= student.id %>">
             <figure>
-                <img src="http://lorempixel.com/500/500/abstract" alt="">
+                <img src="<%= student.profile_picture_url %>" alt="">
                 <figcaption>Prénom : <%= student.first_name %> nom : <%= student.last_name %></figcaption>
             </figure>
         </a>
     </li>
-<% } %>
+    <% } %>
+</ul>
 <nav class="pagination">
     <ul>
         <li><a href="#">Précedent</a></li>
@@ -19,7 +21,7 @@
         <li class="active"><span>2</span></li>
         <li><a href="#">3</a></li>
         <li><a href="#">Suivant</a></li>
-    </ul>
+    </ul>  
 </nav>
 
 <%- include('partials/footer') %>

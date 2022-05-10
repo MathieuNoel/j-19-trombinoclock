@@ -303,5 +303,120 @@
         "id": 302,
         "name": "Valkyrie",
         "github_organization": "https://github.com/O-clock-Valkyrie"
+    },
+    {
+        "id": 312,
+        "name": "Wonderland",
+        "github_organization": "https://github.com/O-clock-Wonderland"
+    },
+    {
+        "id": 322,
+        "name": "Xandar",
+        "github_organization": "https://github.com/O-clock-Xandar"
+    },
+    {
+        "id": 328,
+        "name": "XIII",
+        "github_organization": "https://github.com/O-clock-XIII"
+    },
+    {
+        "id": 343,
+        "name": "Yuna",
+        "github_organization": "https://github.com/O-clock-Yuna"
+    },
+    {
+        "id": 349,
+        "name": "Yggdrasil",
+        "github_organization": "https://github.com/O-clock-Yggdrasil"
+    },
+    {
+        "id": 354,
+        "name": "Phénix",
+        "github_organization": "https://github.com/O-clock-Phenix"
+    },
+    {
+        "id": 358,
+        "name": "Zagreus",
+        "github_organization": "https://github.com/O-clock-Zagreus"
+    },
+    {
+        "id": 361,
+        "name": "Zagreus Test",
+        "github_organization": "https://github.com/O-clock-Zagreus"
+    },
+    {
+        "id": 362,
+        "name": "Zagreus TestBis",
+        "github_organization": "https://github.com/O-clock-Zagreus"
+    },
+    {
+        "id": 363,
+        "name": "Zeus",
+        "github_organization": "https://github.com/O-clock-Zeus"
+    },
+    {
+        "id": 373,
+        "name": "Apollo",
+        "github_organization": "https://github.com/O-clock-apollo"
+    },
+    {
+        "id": 379,
+        "name": "Atome",
+        "github_organization": "https://github.com/O-clock-Atome"
+    },
+    {
+        "id": 386,
+        "name": "Blob",
+        "github_organization": "https://github.com/O-clock-Blob"
+    },
+    {
+        "id": 392,
+        "name": "Boson",
+        "github_organization": "https://github.com/O-clock-Boson"
+    },
+    {
+        "id": 399,
+        "name": "Curie",
+        "github_organization": "https://github.com/O-clock-Curie"
+    },
+    {
+        "id": 405,
+        "name": "Cassini",
+        "github_organization": "https://github.com/O-clock-Cassini"
+    },
+    {
+        "id": 415,
+        "name": "Centaure",
+        "github_organization": "https://github.com/O-clock-Centaure"
+    },
+    {
+        "id": 416,
+        "name": "DeVinci",
+        "github_organization": "https://github.com/O-clock-De-Vinci"
+    },
+    {
+        "id": 422,
+        "name": "Daguerre",
+        "github_organization": "https://github.com/O-clock-Daguerre"
+    },
+    {
+        "id": 432,
+        "name": "Flamel",
+        "github_organization": "https://github.com/O-clock-Flamel"
+    },
+    {
+        "id": 435,
+        "name": "Flamel Yellow",
+        "github_organization": "https://github.com/O-clock-Flamel"
+    },
+    {
+        "id": 436,
+        "name": "Einstein",
+        "github_organization": "https://github.com/O-clock-Einstein"
+    },
+    {
+        "id": 439,
+        "name": "Einstein Yellow",
+        "github_organization": "https://github.com/O-clock-Einstein"
     }
 ]
